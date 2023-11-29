@@ -1,0 +1,17 @@
+[
+  {
+    "totalPrice": 239970000,
+    "orderItems": [
+      {
+        "product": "3",
+        "name": "MacBook Pro 14 inch M3 Max 2023",
+        "category": "laptop",
+        "price": 79990000,
+        "image": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699588094/products/pyk1cawlgtpjrxo089bi.webp",
+        "quantity": 3
+      }
+    ],
+    "status": "Processing",
+    "user": [4, "minh", "minh.ho-ojt07@devplus.edu.vn"]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Admin",
+    "email": "admin@gmail.com",
+    "password": "123123",
+    "phone": "0906564482",
+    "address": " Da Nang",
+    "status": "active",
+    "role": "admin"
+  },
+  {
+    "name": "Van Tu",
+    "email": "tu.nguyen-ojt07@devplus.edu.vn",
+    "password": "123123",
+    "phone": "0375835707",
+    "address": "Da Nang",
+    "status": "active",
+    "role": "admin",
+    "createdAt": "2023-10-01T03:24:00"
+  },
+  {
+    "name": "Đại",
+    "email": "dai@zerot.com",
+    "password": "123123",
+    "phone": "0906561482",
+    "address": "",
+    "status": "inactive",
+    "role": "admin",
+    "createdAt": "2023-10-0606T03:24:00"
+  },
+  {
+    "name": "minh",
+    "email": "minh.ho-ojt07@devplus.edu.vn",
+    "password": "123456",
+    "phone": "0930402030",
+    "role": "customer",
+    "status": "active",
+    "createdAt": "2023-11-01T03:24:00"
+  },
+  {
+    "name": "duy",
+    "email": "duy@gmail.com",
+    "password": "123456",
+    "phone": "0394923944",
+    "role": "customer",
+    "status": "active",
+    "code": 57885,
+    "createdAt": "2023-11-0303T03:24:00"
+  }
+]

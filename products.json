@@ -1,0 +1,270 @@
+[
+  {
+    "createdAt": "2023-11-10T03:36:08.361Z",
+    "review": [],
+    "price": 89990000,
+    "name": "MacBook Pro 16 inch M3 Max 2023",
+    "description": "14CPU - 30GPU - RAM 36GB - SSD 1TB",
+    "category": "laptop",
+    "stock": 20,
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699588018/products/ir9hquayhps4wpo7s0np.webp",
+        "public_id": "products/ir9hquayhps4wpo7s0np"
+      }
+    ],
+    "sold": "77"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699604905/products/eaey9fwjlga7bjho7qa0.webp",
+        "public_id": "products/eaey9fwjlga7bjho7qa0"
+      }
+    ],
+    "createdAt": "2023-11-10T08:28:27.240Z",
+    "review": [],
+    "price": 37690000,
+    "name": "MacBook Air 13 inch M2 2022",
+    "description": "8CPU - 10GPU - RAM 16GB - SSD 512GB",
+    "stock": 10,
+    "category": "laptop",
+    "sold": "13"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699612054/products/jz4rcwuvqaan0gofy9vl.webp",
+        "public_id": "products/jz4rcwuvqaan0gofy9vl"
+      }
+    ],
+    "createdAt": "2023-11-10T10:27:35.745Z",
+    "review": [],
+    "price": 2070000,
+    "name": "Magic Keyboard",
+    "description": "Kết nối không dây",
+    "stock": 20,
+    "category": "phụ kiện",
+    "sold": "50"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699842570/products/q4eylr9umgfl8x3bmtfc.webp",
+        "public_id": "products/q4eylr9umgfl8x3bmtfc"
+      }
+    ],
+    "createdAt": "2023-11-13T02:29:31.562Z",
+    "review": [],
+    "price": 19490000,
+    "name": "MacBook Air 13 inch M1 2020",
+    "description": "8CPU - 7GPU - RAM 8GB - SSD 256 Gb",
+    "stock": 20,
+    "category": "laptop",
+    "deletedAt": "2023-11-13T09:49:22.225Z"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699844421/products/x5m7sv4nizhpwavk5wvs.webp",
+        "public_id": "products/x5m7sv4nizhpwavk5wvs"
+      }
+    ],
+    "createdAt": "2023-11-13T03:00:21.928Z",
+    "review": [],
+    "price": 58990000,
+    "name": "MacBook Pro 16 inch M2 Pro 2023",
+    "description": "12CPU - 19GPU",
+    "stock": 10,
+    "category": "laptop",
+    "deletedAt": "2023-11-13T09:39:20.999Z"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699868238/products/diu5zgk42mdaxwplumo7.webp",
+        "public_id": "products/diu5zgk42mdaxwplumo7"
+      }
+    ],
+    "createdAt": "2023-11-13T09:37:19.285Z",
+    "review": [],
+    "price": 2222,
+    "description": "test",
+    "stock": 5,
+    "category": "laptop",
+    "name": "laptop 123",
+    "deletedAt": "2023-11-13T09:39:21.320Z"
+  },
+  {
+    "createdAt": "2023-11-13T09:47:51.043Z",
+    "review": [],
+    "price": 123123,
+    "name": "test",
+    "description": "123123",
+    "stock": 5,
+    "category": "laptop",
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699868901/products/os5hjnbfcjvvdb3jdhnd.webp",
+        "public_id": "products/os5hjnbfcjvvdb3jdhnd"
+      }
+    ],
+    "deletedAt": "2023-11-13T09:49:22.217Z"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699937259/products/wmfao7xxfmjs8s2b4ovj.webp",
+        "public_id": "products/wmfao7xxfmjs8s2b4ovj"
+      }
+    ],
+    "createdAt": "2023-11-14T04:47:40.130Z",
+    "review": [],
+    "price": 13990000,
+    "name": "Mac mini M1 2020",
+    "description": "8CPU - 8GPU - RAM 8 BG -SSD 512 GB",
+    "stock": 10,
+    "category": "laptop",
+    "sold": "88"
+  },
+  {
+    "createdAt": "2023-11-14T04:49:18.448Z",
+    "review": [],
+    "price": 31490000,
+    "name": "MacBook Air 15 inch M2 2023",
+    "description": "8CPU - 10GPU",
+    "category": "laptop",
+    "stock": 11,
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699972647/products/fkbmaxzzy99v090y8cum.webp",
+        "public_id": "products/fkbmaxzzy99v090y8cum"
+      }
+    ]
+  },
+  {
+    "createdAt": "2023-11-10T03:40:08.737Z",
+    "review": [],
+    "price": 41990000,
+    "name": "iMac 24 inch M3 2023",
+    "description": "8CPU - 8GPU - RAM 8 GB - SSD 512 GB",
+    "category": "laptop",
+    "stock": 21,
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699587677/products/ciczmqr2bks66phslxbq.webp",
+        "public_id": "products/ciczmqr2bks66phslxbq"
+      }
+    ],
+    "deletedAt": "2023-11-13T10:08:47.181Z"
+  },
+  {
+    "createdAt": "2023-11-10T03:43:12.454Z",
+    "review": [],
+    "price": 36490000,
+    "name": "MacBook Air 15 inch M2 2023",
+    "stock": 10,
+    "category": "laptop",
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699587997/products/njpkjry2wqote180hrlp.webp",
+        "public_id": "products/njpkjry2wqote180hrlp"
+      }
+    ],
+    "description": "8CPU - 10GPU - RAM 16GB - SSD 256 GB "
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699588094/products/pyk1cawlgtpjrxo089bi.webp",
+        "public_id": "products/pyk1cawlgtpjrxo089bi"
+      }
+    ],
+    "createdAt": "2023-11-10T03:48:14.865Z",
+    "review": [],
+    "price": 79990000,
+    "name": "MacBook Pro 14 inch M3 Max 2023",
+    "description": "14CPU - 30GPU - RAM 36 GB - SSD 1TB",
+    "stock": 30,
+    "category": "laptop",
+    "sold": "90"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699588209/products/tjzsmpf1yawbcijaonmg.webp",
+        "public_id": "products/tjzsmpf1yawbcijaonmg"
+      }
+    ],
+    "createdAt": "2023-11-10T03:50:10.587Z",
+    "review": [],
+    "price": 4090000,
+    "name": "AirPods 3",
+    "stock": 40,
+    "description": "Sạc Lightning",
+    "category": "Phụ kiện",
+    "deletedAt": "2023-11-13T10:07:30.426Z"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699588369/products/lv1lporkyehe9lrc7gv7.webp",
+        "public_id": "products/lv1lporkyehe9lrc7gv7"
+      }
+    ],
+    "createdAt": "2023-11-10T03:52:50.513Z",
+    "review": [],
+    "price": 2720000,
+    "name": "Magic Keyboard",
+    "stock": 20,
+    "description": "Magic Keyboard với phím số",
+    "category": "Phụ kiện"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699588849/products/jxw56yvouc6k28ypqee9.webp",
+        "public_id": "products/jxw56yvouc6k28ypqee9"
+      }
+    ],
+    "createdAt": "2023-11-10T04:00:49.977Z",
+    "review": [],
+    "price": 2750000,
+    "name": "AirPods 2",
+    "description": "Hộp sạc thường",
+    "stock": 20,
+    "category": "phụ kiện",
+    "deletedAt": "2023-11-13T10:07:25.716Z"
+  },
+  {
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699592154/products/j8gnoxgjbks6dyp1peib.webp",
+        "public_id": "products/j8gnoxgjbks6dyp1peib"
+      }
+    ],
+    "createdAt": "2023-11-10T04:55:56.292Z",
+    "review": [],
+    "category": "laptop",
+    "price": 36490000,
+    "name": "MacBook Air 15 inch M2 2023",
+    "description": "8CPU - 10GPU - RAM 16GB - SSD 256 GB ",
+    "stock": 10
+  },
+  {
+    "createdAt": "2023-11-10T08:07:55.586Z",
+    "review": [],
+    "price": 33990000,
+    "name": "iMac 24 inch M1 2021",
+    "stock": 10,
+    "category": "laptop",
+    "image": [
+      {
+        "url": "http://res.cloudinary.com/dyk82loo2/image/upload/v1699603778/products/bqqiui65wjz5c9isrtmw.webp",
+        "public_id": "products/bqqiui65wjz5c9isrtmw"
+      }
+    ],
+    "description": "8CPU - 8GPU - RAM 8GB - SSD 256GB ",
+    "sold": "18"
+  }
+]
