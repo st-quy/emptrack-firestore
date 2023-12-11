@@ -1,0 +1,970 @@
+[
+  {
+    "createdAt": "2023-11-30T09:13:33.172Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "status": "active",
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "endDate": "2023-12-31",
+    "startDate": "2023-12-01",
+    "deletedAt": "2023-12-06T05:02:17.826Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:16.517Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T05:02:22.207Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:17.753Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-04T08:00:44.778Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:19.024Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:39:55.203Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:20.124Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-04T07:30:16.793Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:21.233Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T03:12:16.617Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:22.289Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:08:26.858Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:23.265Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T03:12:08.285Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:25:01.352Z",
+    "manager": [{ "name": "Tran Duy", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:10:44.952Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:25:02.596Z",
+    "manager": [{ "name": "Tran Duy", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:26:06.155Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:25:03.757Z",
+    "manager": [{ "name": "Tran Duy", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-04T04:08:00.627Z"
+  },
+  {
+    "createdAt": "2023-11-30T09:16:34.522Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript, ReactJS, NodeJS",
+    "endDate": "25-11-2023",
+    "name": "ZeroT Food",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Lam website ship do an tai Da Nang",
+    "startDate": "30-10-2023",
+    "status": "active",
+    "deletedAt": "2023-12-06T05:02:13.385Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:25:15.629Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:26:08.649Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:47:18.066Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-05",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:26:10.759Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:50:13.838Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:26:12.781Z"
+  },
+  {
+    "createdAt": "2023-12-04T07:12:32.115Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:16.386Z"
+  },
+  {
+    "createdAt": "2023-12-04T07:21:17.318Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:18.373Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:55:56.212Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:20.419Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:55:59.261Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:22.610Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:01.313Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:24.476Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:03.554Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:26.804Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:06.210Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:28.831Z"
+  },
+  {
+    "createdAt": "2023-12-01T03:03:43.397Z",
+    "manager": [{ "name": "Quy Pham", "id": "4" }],
+    "technical": "HTML, CSS, JavaScript, ReactJS",
+    "endDate": "22-12-2023",
+    "name": "ZeroT Employees and Projects Track",
+    "member": [
+      { "role": "Fullstack", "name": "Ngoc Tong", "id": "9" },
+      { "role": "Front-end", "name": "Loc Huynh", "id": "8" },
+      { "role": "B.A", "name": "Van Tu", "id": "7" }
+    ],
+    "description": "Website theo doi nhan vien va project",
+    "startDate": "27-11-2023",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:19:43.161Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:08.019Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:31.199Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:09.206Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:33.144Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:10.655Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:35.458Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:12.418Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:37.202Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:14.494Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:40.691Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:16.177Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:42.613Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:18.991Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:44.852Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:20.449Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:46.997Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:23.745Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:50.935Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:24.979Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:53.597Z"
+  },
+  {
+    "createdAt": "2023-12-04T02:14:03.773Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-04T02:58:55.868Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:26.545Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:55.599Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:27.950Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:57.418Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:29.295Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:26:59.525Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:31.064Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:27:01.940Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:32.730Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:27:04.891Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:33.963Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:27:06.959Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:35.667Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:27:19.048Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:37.311Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:27:20.936Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:39.108Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T04:52:47.833Z"
+  },
+  {
+    "createdAt": "2023-12-05T03:56:40.437Z",
+    "manager": [{ "name": "Tu Nguyen", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T07:07:34.071Z"
+  },
+  {
+    "createdAt": "2023-12-04T02:15:11.357Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-04T03:21:45.411Z"
+  },
+  {
+    "createdAt": "2023-12-05T09:48:15.496Z",
+    "technical": "Reactjs, Nodejs",
+    "manager": [{ "name": "Nguyen Van A", "id": "1" }],
+    "endDate": "16/12/2023",
+    "member": [
+      { "role": "devops", "name": "Loc Huynh", "id": "8" },
+      { "role": "fullstack", "name": "Ngoc Tong", "id": "9" }
+    ],
+    "name": "Lorem Ipsum has been the",
+    "description": "There are many variations of passages",
+    "startDate": "14/12/2023",
+    "status": "active"
+  },
+  {
+    "createdAt": "2023-12-06T02:55:35.947Z",
+    "technical": "Python",
+    "manager": [{ "name": "Nguyen Anh Tai ", "id": "11" }],
+    "endDate": "12/12/2023",
+    "member": [
+      { "role": "devops", "name": "Quy Pham", "id": "4" },
+      { "role": "backend", "name": "Nguyen Tan Anh Huy", "id": "5" },
+      { "role": "fullstack", "name": "Loc Huynh", "id": "8" }
+    ],
+    "name": "Super Alpha",
+    "description": "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the",
+    "startDate": "14/11/2023",
+    "status": "inactive"
+  },
+  {
+    "createdAt": "2023-12-06T03:50:18.691Z",
+    "manager": [{ "name": "Nguyen Hoang Duy", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive"
+  },
+  {
+    "createdAt": "2023-12-06T03:51:09.698Z",
+    "technical": ".NET",
+    "manager": [{ "name": "Nguyen Tu ", "id": "10" }],
+    "endDate": "28/12/2023",
+    "member": [
+      { "role": "product owner", "name": "Loc Huynh", "id": "8" },
+      { "role": "backend", "name": "Quy Pham", "id": "4" }
+    ],
+    "name": "XYZ",
+    "description": "test desc",
+    "startDate": "26/12/2023",
+    "status": "inactive"
+  },
+  {
+    "createdAt": "2023-12-06T04:21:03.347Z",
+    "manager": [{ "name": "Nguyen Hoang Duy", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive"
+  },
+  {
+    "createdAt": "2023-12-06T04:23:27.541Z",
+    "manager": [{ "name": "Vo Thanh Thien", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-11-01",
+    "status": "inactive"
+  },
+  {
+    "createdAt": "2023-12-06T04:24:58.511Z",
+    "manager": [{ "name": "Vo Thanh Thien", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "ldnjlanwailenawelawnelaeawiwliejliewjliewjliljawijlieawwea",
+    "startDate": "2023-11-01",
+    "status": "inactive"
+  },
+  {
+    "createdAt": "2023-12-06T04:42:00.600Z",
+    "technical": "test",
+    "manager": [{ "name": "Nguyen Anh Tai ", "id": "11" }],
+    "endDate": "15/12/2023",
+    "member": [
+      { "role": "backend", "name": "Loc Huynh", "id": "8" },
+      { "role": "tester", "name": "Quy Pham", "id": "4" },
+      { "role": "backend", "name": "Nguyen Tu ", "id": "10" }
+    ],
+    "name": "test",
+    "description": "test",
+    "startDate": "06/12/2023",
+    "status": "inactive"
+  },
+  {
+    "createdAt": "2023-12-06T04:42:30.686Z",
+    "manager": [{ "name": "Vo Thanh Thien", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "ldnjlanwailenawelawnelaeawiwliejliewjliewjliljawijlieawwea",
+    "startDate": "2023-11-01",
+    "status": "inactive"
+  },
+  {
+    "createdAt": "2023-12-06T04:42:54.261Z",
+    "manager": [{ "name": "Vo Thanh Thien", "id": "7" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "ldnjlanwailenawelawnelaeawiwliejliewjliewjliljawijlieawwea",
+    "startDate": "2023-11-01",
+    "status": "inactive"
+  },
+  {
+    "createdAt": "2023-12-04T03:23:58.285Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-05T02:30:58.468Z"
+  },
+  {
+    "createdAt": "2023-12-06T04:44:02.975Z",
+    "manager": [{ "name": "Vo Thanh Thien", "id": "7" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "ldnjlanwailenawelawnelaeawiwliejliewjliewjliljawijlieawwea",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T07:07:40.331Z"
+  },
+  {
+    "createdAt": "2023-12-06T07:08:14.431Z",
+    "manager": [{ "name": "Nguyen Tan Anh Huy", "id": "7" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "ldnjlanwailenawelawnelaeawiwliejliewjliewjliljawijlieawwea",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T07:12:40.421Z"
+  },
+  {
+    "createdAt": "2023-12-06T07:08:26.014Z",
+    "manager": [{ "name": "Hoàng Bảo Châu", "id": "7" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "ldnjlanwailenawelawnelaeawiwliejliewjliewjliljawijlieawwea",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T07:10:47.700Z"
+  },
+  {
+    "createdAt": "2023-12-06T07:12:50.384Z",
+    "manager": [{ "name": "Hoàng Bảo Châu", "id": "7" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "ldnjlanwailenawelawnelaeawiwliejliewjliewjliljawijlieawwea",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T07:13:21.436Z"
+  },
+  {
+    "createdAt": "2023-12-06T07:12:51.499Z",
+    "manager": [{ "name": "Hoàng Bảo Châu", "id": "7" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "ldnjlanwailenawelawnelaeawiwliejliewjliewjliljawijlieawwea",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T07:13:18.454Z"
+  },
+  {
+    "createdAt": "2023-12-06T07:12:52.603Z",
+    "manager": [{ "name": "Hoàng Bảo Châu", "id": "7" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-07",
+    "name": "ABCABC Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "ldnjlanwailenawelawnelaeawiwliejliewjliewjliljawijlieawwea",
+    "startDate": "2023-11-01",
+    "status": "inactive",
+    "deletedAt": "2023-12-06T07:13:03.587Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:06.211Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:27:23.095Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:08.696Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:27:26.228Z"
+  },
+  {
+    "createdAt": "2023-12-04T03:24:15.251Z",
+    "manager": [{ "name": "Tran Dai", "id": "3" }],
+    "technical": "HTML, CSS, JavaScript",
+    "endDate": "2023-12-31",
+    "name": "ZeroT Macbook",
+    "member": [
+      { "role": "Fullstack", "name": "Nguyen Van A", "id": "1" },
+      { "role": "Fullstack", "name": "Nguyen Hoang Duy", "id": "2" }
+    ],
+    "description": "Website ban hang online chuyen ban macbook chung toi lam viec chuyen nghiep",
+    "startDate": "2023-12-01",
+    "status": "active",
+    "deletedAt": "2023-12-06T04:27:28.519Z"
+  }
+]

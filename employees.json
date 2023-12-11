@@ -1,0 +1,375 @@
+[
+  {
+    "code": "GCD123",
+    "gender": "male",
+    "description": "hello hello",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 201766032,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "2 years" },
+      { "skillname": "ReactJS", "exp": "4 years" }
+    ],
+    "createdAt": "2023-11-30T08:22:24.631Z",
+    "phone": "0940223333",
+    "dob": "20-10-1999",
+    "isManager": false,
+    "position": "developer",
+    "status": "active",
+    "address": "116 Mai Thuc Lan",
+    "lineManager": "Van Dai",
+    "name": "Nguyen Van A"
+  },
+  {
+    "code": "GCD582",
+    "address": "116 Mai Thuc Lan",
+    "lineManager": "Van Dai",
+    "gender": "male",
+    "description": "hello hello hello",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2015789634,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "4 years" },
+      { "skillname": "ReactJS", "exp": "8 years" }
+    ],
+    "createdAt": "2023-12-01T03:08:41.214Z",
+    "phone": "0352022367",
+    "dob": "10-10-1949",
+    "name": "Nguyen Tu ",
+    "isManager": false,
+    "position": "developer",
+    "status": "active"
+  },
+  {
+    "code": "GCD119",
+    "address": "116 Mai Thuc Lan",
+    "lineManager": "Van Dai",
+    "gender": "female",
+    "description": "ok ok ok",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2063676458,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "4 years" },
+      { "skillname": "ReactJS", "exp": "8 years" }
+    ],
+    "createdAt": "2023-12-01T03:12:11.175Z",
+    "phone": "0912947247",
+    "dob": "20-05-2000",
+    "name": "Nguyen Anh Tai ",
+    "isManager": false,
+    "position": "developer",
+    "status": "active"
+  },
+  {
+    "skills": [{ "skillname": "JS", "exp": "1 years" }],
+    "createdAt": "2023-12-02T13:53:18.096Z",
+    "values": {
+      "code": "DL123",
+      "gender": "Nam",
+      "line_manager": "Phan Hiếu",
+      "phone": "0373461075",
+      "nameEmployee": "a",
+      "birth": "2023-12-01T13:50:12.939Z",
+      "description": "ad",
+      "citizen_card": "0123456747",
+      "position": "Front-end Developer",
+      "is_manager": "Có",
+      "status": "Hoạt động"
+    },
+    "status": "active"
+  },
+  {
+    "code": "DL123",
+    "gender": "Nam",
+    "line_manager": "Phan Hiếu",
+    "nameEmployee": "a",
+    "birth": "2023-12-01T13:50:12.939Z",
+    "description": "ad",
+    "is_manager": "Có",
+    "skills": [{ "skillname": "JS", "exp": "1 years" }],
+    "createdAt": "2023-12-02T14:03:50.819Z",
+    "phone": "0373461075",
+    "citizen_card": "0123456747",
+    "position": "Front-end Developer",
+    "status": "active"
+  },
+  {
+    "code": "DL123",
+    "gender": "Nam",
+    "line_manager": "Phan Hiếu",
+    "nameEmployee": "a",
+    "birth": "2023-12-01T13:50:12.939Z",
+    "description": "ad",
+    "is_manager": "Có",
+    "skills": [{ "skillname": "JS", "exp": "1 years" }],
+    "createdAt": "2023-12-02T14:09:47.324Z",
+    "phone": "0373461075",
+    "citizen_card": "0123456747",
+    "position": "Front-end Developer",
+    "status": "active"
+  },
+  {
+    "skills": [{ "skillname": "asfa", "exp": "asfas" }],
+    "createdAt": "2023-12-04T07:26:34.449Z",
+    "status": "active"
+  },
+  {
+    "code": "DL123",
+    "address": "116 Mai Thuc Lan",
+    "lineManager": "Van Dai",
+    "gender": "male",
+    "description": "hello hello",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2017339928,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "2 years" },
+      { "skillname": "ReactJS", "exp": "4 years" }
+    ],
+    "createdAt": "2023-12-05T10:22:07.068Z",
+    "phone": "0940223333",
+    "dob": "20-10-1999",
+    "name": "Dai me Gai",
+    "isManager": false,
+    "position": "developer",
+    "status": "active"
+  },
+  {
+    "code": "GCD456",
+    "gender": "male",
+    "description": "toi la duy ngao",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2023123456,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "5 years" },
+      { "skillname": "ReactJS", "exp": "3 years" }
+    ],
+    "createdAt": "2023-11-30T08:24:53.987Z",
+    "phone": "0913219701",
+    "dob": "06-03-2002",
+    "name": "Nguyen Hoang Duy",
+    "isManager": false,
+    "position": "developer",
+    "status": "active",
+    "address": "116 Mai Thuc Lan",
+    "lineManager": "Van Dai"
+  },
+  {
+    "code": "GCD789",
+    "description": "toi la dai me gai",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2008199522,
+    "skills": [
+      { "skillname": "HTML", "exp": "5 years" },
+      { "skillname": "CSS", "exp": "5 years" },
+      { "skillname": "Java", "exp": "9 years" },
+      { "skillname": "PHP", "exp": "8 years" }
+    ],
+    "createdAt": "2023-11-30T08:28:46.932Z",
+    "phone": "0945009007",
+    "dob": "20-08-1995",
+    "isManager": true,
+    "position": "developer",
+    "status": "active",
+    "lineManager": "Quy Pham",
+    "address": "116 Mai Thuc Lan",
+    "gender": "male",
+    "name": "Van Dai"
+  },
+  {
+    "code": "GCD238",
+    "gender": "male",
+    "description": "I am Quy pham",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2000090308,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "5 years" },
+      { "skillname": "ReactJS", "exp": "5 years" },
+      { "skillname": "PHP", "exp": "5 years" },
+      { "skillname": "HTML", "exp": "5 years" },
+      { "skillname": "CSS", "exp": "5 years" }
+    ],
+    "createdAt": "2023-12-01T02:31:51.817Z",
+    "phone": "0940090302",
+    "dob": "09-03-2000",
+    "isManager": true,
+    "position": "developer",
+    "status": "active",
+    "address": "116 Mai Thuc Lan",
+    "lineManager": "Phu Nguyen",
+    "name": "Quy Pham"
+  },
+  {
+    "code": "GCD590",
+    "lineManager": "Quy Pham",
+    "gender": "male",
+    "description": "I am Huy",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2000232224,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "5 years" },
+      { "skillname": "ReactJS", "exp": "5 years" },
+      { "skillname": "PHP", "exp": "5 years" },
+      { "skillname": "HTML", "exp": "5 years" },
+      { "skillname": "CSS", "exp": "5 years" }
+    ],
+    "createdAt": "2023-12-01T02:34:03.452Z",
+    "phone": "0940222324",
+    "dob": "09-03-2000",
+    "name": "Nguyen Tan Anh Huy",
+    "isManager": false,
+    "position": "developer",
+    "status": "active",
+    "address": "116 Mai Thuc Lan"
+  },
+  {
+    "code": "GCD239",
+    "lineManager": "Quy Pham",
+    "gender": "male",
+    "description": "I am Hieu",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2001423812,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "2 years" },
+      { "skillname": "ReactJS", "exp": "2 years" },
+      { "skillname": "PHP", "exp": "2 years" },
+      { "skillname": "HTML", "exp": "2 years" },
+      { "skillname": "CSS", "exp": "2 years" }
+    ],
+    "createdAt": "2023-12-01T02:43:18.481Z",
+    "phone": "0905423812",
+    "dob": "23-06-2001",
+    "name": "Phan Hieu",
+    "isManager": false,
+    "position": "developer",
+    "status": "active",
+    "address": "116 Mai Thuc Lan"
+  },
+  {
+    "lineManager": "Quy Pham",
+    "address": "116 Mai Thuc Lan",
+    "gender": "male",
+    "description": "I am Tu",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2001351203,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "2 years" },
+      { "skillname": "ReactJS", "exp": "2 years" },
+      { "skillname": "PHP", "exp": "2 years" },
+      { "skillname": "HTML", "exp": "2 years" },
+      { "skillname": "CSS", "exp": "2 years" }
+    ],
+    "createdAt": "2023-12-01T02:45:03.579Z",
+    "phone": "0905351202",
+    "dob": "30-07-2001",
+    "name": "Van Tu",
+    "isManager": false,
+    "position": "developer",
+    "status": "active",
+    "code": "GCD843"
+  },
+  {
+    "code": "GCD454",
+    "lineManager": "Quy Pham",
+    "address": "116 Mai Thuc Lan",
+    "gender": "male",
+    "description": "I am Loc",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "cccd": 2002390208,
+    "skills": [
+      { "skillname": "JavaScript", "exp": "5 years" },
+      { "skillname": "ReactJS", "exp": "5 years" },
+      { "skillname": "PHP", "exp": "5 years" },
+      { "skillname": "HTML", "exp": "5 years" },
+      { "skillname": "CSS", "exp": "5 years" }
+    ],
+    "createdAt": "2023-12-01T02:50:52.087Z",
+    "phone": "0905729649",
+    "dob": "09-12-2002",
+    "name": "Loc Huynh",
+    "isManager": false,
+    "position": "developer",
+    "status": "active"
+  },
+  {
+    "code": "GCD948",
+    "lineManager": "Quy Pham",
+    "address": "116 Mai Thuc Lan",
+    "gender": "female",
+    "description": "I am Ngoc",
+    "avatar": [
+      {
+        "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNGXVvM5RZUllNyheM7KJBs8c0eJ1tn35PLcido5hQLlZseigK",
+        "public_id": "sample"
+      }
+    ],
+    "skills": [
+      { "skillname": "JavaScript", "exp": "5 years" },
+      { "skillname": "ReactJS", "exp": "5 years" },
+      { "skillname": "PHP", "exp": "2 years" },
+      { "skillname": "HTML", "exp": "2 years" },
+      { "skillname": "CSS", "exp": "2 years" }
+    ],
+    "createdAt": "2023-12-01T02:54:19.869Z",
+    "name": "Ngoc Tong",
+    "isManager": false,
+    "position": "developer",
+    "status": "active",
+    "phone": "0905358125",
+    "dob": "08-03-2001",
+    "cccd": 2001923034
+  }
+]
