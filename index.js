@@ -9,7 +9,7 @@ const dataEmployees = require("./employees.json");
 
 admin.initializeApp({
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://zero-api-a307a-default-rtdb.asia-southeast1.firebasedatabase.app"
+  databaseURL: "https://zerot-api-default-rtdb.asia-southeast1.firebasedatabase.app"
 });
 
 // Setup app dependencies
@@ -416,12 +416,10 @@ app.post("/employees", (req, res) => {
             .create({
               ...req.body,
               createdAt: new Date().toISOString(),
-              status: "active",
             });
           return res.status(200).send({msg: 'success',data: {
             ...req.body,
             createdAt: new Date().toISOString(),
-            status: "active",
           }});
         });
     } catch (error) {
